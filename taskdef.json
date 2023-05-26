@@ -80,8 +80,5 @@
   "runtimePlatform": {
       "cpuArchitecture": "ARM64",
       "operatingSystemFamily": "LINUX"
-  },
-  "registeredAt": "2023-05-26T00:26:01.751Z",
-  "registeredBy": "arn:aws:iam::433623277716:user/fedesg",
-  "tags": []
+  }
 }
