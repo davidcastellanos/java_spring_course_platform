@@ -13,7 +13,7 @@
 
 <div class="d-flex justify-content-around">
     <div class="col-6">
-        <h2>¡Regístrate!</h2>
+        <h2>¡Regístrate - GitHub!</h2>
         <form:form action="/register" method="post" modelAttribute="nuevoUser">
 
             <div class="form-group">
