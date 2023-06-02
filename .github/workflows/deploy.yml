@@ -52,6 +52,6 @@ jobs:
         uses: aws-actions/amazon-ecs-deploy-task-definition@v1
         with:
           task-definition: ${{ steps.task-def.outputs.task-definition }}
-          service: demo-services-arm64
+          service: demo-service-github
           cluster: demo-ecs-cluster
           wait-for-service-stability: true
